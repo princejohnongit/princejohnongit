@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/princejohnongit/princejohnongit/raw/main/assets/banner.png" width="80%" alt="Welcome Banner" />
+   <img src="[[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ffahad-fahadh-fazil-faasil-running-gif-11350768707474554692&psig=AOvVaw2hJn2E3_54WU7gzkcTpjoa&ust=1752426147123000&source=images&cd=vfe&opi=89978449&ved=0CAUQtaYDahcKEwjgmrin5reOAxUAAAAAHQAAAAAQBw)](https://tenor.com/view/fahad-fahadh-fazil-faasil-running-gif-11350768707474554692)" width="40"/>
 </p>
 
 ---
