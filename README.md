@@ -3,40 +3,70 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
 
-<p align="center"><b>Software Engineer • Open Source Contributor • GitHub Enthusiast</b></p>
+<p align="center"><b>AI/ML Enthusiast • Problem Solver • Hackathon Builder</b></p>
 
 ---
 
 <p align="center">
-   <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljcWYwMHg1bThjcHQydWJmdW5peWdzajN6M2trNjgyM3dmbXRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efNqSO4TuhKlYHyUa2/giphy.gif)" width="40"/>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljcWYwMHg1bThjcHQydWJmdW5peWdzajN6M2trNjgyM3dmbXRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efNqSO4TuhKlYHyUa2/giphy.gif" width="40"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Professional Software Engineer focused on building scalable, robust solutions.
-- 🌱 Continuous learner with a passion for the latest technologies and best practices.
-- 🤝 Open source contributor—collaborating globally to improve the developer ecosystem.
-- 🧠 Believer in clean code, knowledge sharing, and mentoring the next generation of engineers.
-- 💬 Always eager to connect and discuss all things tech.
+- 🎓 B.Tech student in Artificial Intelligence & Machine Learning  
+- ⚙️ Builder of real-world solutions combining tech, empathy & impact  
+- 🧠 Focused on AI, ML, IoT, Blockchain & Smart Systems  
+- 💡 Hackathon enthusiast with projects in healthtech, finance & sustainability  
+- 📣 Always up for innovation, collaboration, and pushing ideas into reality
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🎯 **SupFlow** – *Democracy in Supply Chain*  
+  A smart supply chain platform integrating AI + blockchain to enable transparency, user-driven decisions, and government collaboration.
+
+- 💰 **SmartBud** – *Your Personal Finance Guide*  
+  A financial utility app that generates the most optimal financial plan based on your habits & financial health score — built in 24 hours at HFT 2024.
+
+- 🧓 **Elder Guard**  
+  AI-based monitoring system to ensure safety and well-being of senior citizens, with emergency alerts and activity tracking.
+
+- 🏥 **MedNet**  
+  A telehealth and chronic care management platform for rural areas with integrated identity, medical records, and alerts.
+
+- 🔁 **Reuse Marketplace**  
+  E-commerce concept for verified resale of used parts — promoting sustainability and circular economy through tech.
+
+---
+
+## 🏆 Hackathon Highlights
+
+- 🥈 **ASAP Idea Fest – December 2024**  
+  2nd Prize for a sustainable supply chain solution using smart, green tech and data-led planning.
+
+- 💡 **.hack();_ 2024**  
+  Built SupFlow — an AI + blockchain-based platform to reduce inefficiencies in supply chains and empower citizens.
+
+- ⏱️ **HFT-2024 (Hack for Tomorrow)**  
+  Created SmartBud – a finance planning app built from scratch in 24 hours.
 
 ---
 
@@ -52,44 +82,17 @@
 
 ---
 
-## 🌍 Open Source & Professional Highlights
-
-- 🏆 Maintainer and frequent contributor to major open source projects.
-- 📦 Published several NPM and PyPI packages used by developers worldwide.
-- 🗣️ Speaker at tech meetups and conferences.
-- 📚 Technical writer—check out my articles and tutorials on [dev.to](https://dev.to/).
-- 🏢 Experienced in both startups and enterprise environments.
-
----
-
-## 🚀 Featured Projects
-
-- [Project Alpha](https://github.com/princejohnongit/project-alpha): Scalable REST API boilerplate for rapid prototyping.
-- [DevOps Genie](https://github.com/princejohnongit/devops-genie): Automated CI/CD pipelines for cloud-native apps.
-- [OpenSource Helper](https://github.com/princejohnongit/opensource-helper): A toolkit for open source maintainers.
-
----
-
-## 🗂️ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Automated activity feed using GitHub Actions or tools like readme-activity -->
-<!--END_SECTION:activity-->
-
----
-
-## 🤝 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/princejohnongit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/princejohnongit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:princejohnongit@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/princejohnongit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
-> “Code is not just my profession, it’s my passion. Let’s build the future together.”
+> “Tech for good. Code for impact. Building meaningful things, one idea at a time.”
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princejohnongit&label=Profile%20views&color=0e75b6&style=flat" alt="princejohnongit" />
