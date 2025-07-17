@@ -49,9 +49,6 @@
 - 🧓 **Elder Guard**  
   AI-based monitoring system to ensure safety and well-being of senior citizens, with emergency alerts and activity tracking.
 
-- 🏥 **MedNet**  
-  A telehealth and chronic care management platform for rural areas with integrated identity, medical records, and alerts.
-
 - 🔁 **Reuse Marketplace**  
   E-commerce concept for verified resale of used parts — promoting sustainability and circular economy through tech.
 
